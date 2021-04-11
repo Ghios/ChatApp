@@ -3,3 +3,11 @@
 .chatbox{
     height: 500px;
 }
+
+.a-primary{
+    color: red ;
+}
+
+.a-primary:hover, a:active {
+    color: red;
+  }

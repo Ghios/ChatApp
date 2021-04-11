@@ -11,3 +11,8 @@
 .a-primary:hover, a:active {
     color: red;
   }
+
+#messages {
+    height: 15em;
+    overflow: auto;
+}
